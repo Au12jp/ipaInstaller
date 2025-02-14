@@ -1,8 +1,8 @@
 {
-  "name": "my-ota-installer",
+  "name": "ipa_installer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/my-ota-installer",
+  "homepage": "https://au12jp.github.io/ipaInstaller",
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^6.3.0",

@@ -3,8 +3,7 @@ import "./App.css";
 
 function App() {
   // GitHub Pages で公開後の manifest.plist の URL
-  const manifestUrl =
-    "https://username.github.io/my-ota-installer/manifest.plist";
+  const manifestUrl = "https://au12jp.github.io/ipaInstaller/manifest.plist";
   const otaLink = `itms-services://?action=download-manifest&url=${encodeURIComponent(
     manifestUrl
   )}`;
