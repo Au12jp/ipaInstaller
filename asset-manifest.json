@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ipaInstaller/static/css/main.f855e6bc.css",
+    "main.js": "/ipaInstaller/static/js/main.5a3e7b93.js",
+    "static/js/488.ddb28a5f.chunk.js": "/ipaInstaller/static/js/488.ddb28a5f.chunk.js",
+    "index.html": "/ipaInstaller/index.html",
+    "main.f855e6bc.css.map": "/ipaInstaller/static/css/main.f855e6bc.css.map",
+    "main.5a3e7b93.js.map": "/ipaInstaller/static/js/main.5a3e7b93.js.map",
+    "488.ddb28a5f.chunk.js.map": "/ipaInstaller/static/js/488.ddb28a5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5a3e7b93.js"
+  ]
+}
